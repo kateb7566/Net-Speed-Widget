@@ -1,0 +1,64 @@
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\Net Speed Widget.exe.config
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\Net Speed Widget.exe
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\Net Speed Widget.pdb
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\Bandwidth.Net.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\DotNetZip.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\LottieSharp.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\MaterialDesignColors.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.Desktop.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\System.Reactive.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\System.ValueTuple.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\XamlFlair.WPF.dll
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\Bandwidth.Net.xml
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\DotNetZip.pdb
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\DotNetZip.xml
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.pdb
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.Desktop.pdb
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.Desktop.xml
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.Direct3D11.pdb
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.Direct3D9.pdb
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.Mathematics.pdb
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\System.Reactive.xml
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\bin\Debug\System.ValueTuple.xml
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\obj\Debug\MainWindow.g.cs
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\obj\Debug\App.g.cs
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\obj\Debug\Net Speed Widget_MarkupCompile.cache
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\obj\Debug\Net Speed Widget_MarkupCompile.lref
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\obj\Debug\App.baml
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\obj\Debug\MainWindow.baml
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\obj\Debug\Net Speed Widget.g.resources
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\obj\Debug\Net_Speed_Widget.Properties.Resources.resources
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\obj\Debug\Net Speed Widget.csproj.GenerateResource.cache
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\obj\Debug\Net Speed Widget.csproj.CoreCompileInputs.cache
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\obj\Debug\Net Speed Widget.sourcelink.json
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\obj\Debug\Net Speed Widget.csproj.CopyComplete
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\obj\Debug\Net Speed Widget.exe
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\obj\Debug\Net Speed Widget.pdb
+C:\Users\Fateh Lebbier\source\repos\Net Speed Widget\Net Speed Widget\obj\Debug\Net Speed Widget.csprojAssemblyReference.cache
